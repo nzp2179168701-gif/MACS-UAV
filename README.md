@@ -329,10 +329,14 @@ Combining different algorithm types in switching, nested, or fused manners.
 - **Real-environment data and field experiments**: measured air-ground channel data in complex terrain, dynamic inter-UAV channel data, and synchronously annotated multi-sensor aerial datasets remain very limited; real-flight validation is needed to close the sim-to-real gap.
 - **Combination with emerging fields**: exploiting the reasoning capability of large language models for online communication-sensing co-adaptation on resource-constrained onboard platforms.
 
-## 🤝 Contributing
-
-We will keep tracking new papers in this field (with a focus on 2023-2026 IEEE journals and ICRA/IROS conferences). Contributions are welcome - feel free to open an issue or submit a pull request to add a relevant paper.
-
 ## 🙏 Acknowledgement
 
-The organization of this repository is inspired by [DLLV](https://github.com/dlgxwcvhehks/DLLV).
+The organization of this repository is inspired by [DLLV](https://github.com/dlgxwcvhehks/DLLV). We also gratefully acknowledge the following related surveys and representative works, which informed the scope and taxonomy of this survey:
+
+- [IACTS: An Intelligent Adaptive Communication Topological Scheme for Subterranean UAV Network](https://ieeexplore.ieee.org/document/11087472)
+- [A Survey on Autonomous and Intelligent Swarms of Uncrewed Aerial Vehicles (UAVs)](https://ieeexplore.ieee.org/document/11010841)
+- [Computational Intelligence Algorithms for UAV Swarm Networking and Collaboration: A Comprehensive Survey and Future Directions](https://ieeexplore.ieee.org/document/10516683)
+- [Deep Learning for Low-Light Vision: A Comprehensive Survey](https://ieeexplore.ieee.org/document/11018619)
+- [Key Technologies and Applications of UAVs in Underground Space: A Review](https://ieeexplore.ieee.org/document/10418158)
+- [A Survey on Unmanned Aerial Vehicles (UAVs) Communications: State-of-the-Art, Existing Standards, and Future Directions](https://ieeexplore.ieee.org/document/11435927)
+- [FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring](https://ieeexplore.ieee.org/document/11399950)
