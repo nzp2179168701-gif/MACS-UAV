@@ -35,7 +35,6 @@ Following the taxonomy of the survey, the collected works are organized into thr
   - [Hybrid Methods](#hybrid-methods)
 - [🚁 Applications in Complex Environments](#-applications-in-complex-environments)
 - [🔭 Future Directions](#-future-directions)
-- [✍️ Citation](#%EF%B8%8F-citation)
 - [🙏 Acknowledgement](#-acknowledgement)
 
 ## 🗺️ Taxonomy
@@ -329,19 +328,6 @@ Combining different algorithm types in switching, nested, or fused manners.
 - **Standardized evaluation**: a unified benchmark for the joint performance verification of communication and sensing (UAV scale, flight area, channel model, sensor configuration, task metrics) is still lacking.
 - **Real-environment data and field experiments**: measured air-ground channel data in complex terrain, dynamic inter-UAV channel data, and synchronously annotated multi-sensor aerial datasets remain very limited; real-flight validation is needed to close the sim-to-real gap.
 - **Combination with emerging fields**: exploiting the reasoning capability of large language models for online communication-sensing co-adaptation on resource-constrained onboard platforms.
-
-## ✍️ Citation
-
-The survey paper is currently under review. Citation information will be updated upon publication.
-
-```bibtex
-@article{ning2026mutual,
-  title   = {Mutual Adaptation of Communication and Sensing for Cooperative Multi-UAV in Complex Environments: A Survey},
-  author  = {Ning, Zhaopeng and Li, Gang and Li, Wei and Li, Chenlong and Wu, Huai-Ning},
-  year    = {2026},
-  note    = {Under review}
-}
-```
 
 ## 🤝 Contributing
 
