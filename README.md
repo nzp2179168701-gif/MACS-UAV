@@ -146,6 +146,8 @@ Hop-by-hop forwarding under rapidly time-varying FANET topologies: model-based a
 
 The sensing side actively adjusts its processing strategy according to the communication state, transforming raw observations into semantic representations adapted to low bandwidth and unstable links.
 
+<p align="center"><img src="figs/sensing_adapt_pipeline.png" width="85%"></p>
+
 ### Semantic Extraction of Sensing Data
 
 Selecting key information units from high-dimensional observations: feature-level selective sharing, semantic extraction of map data, and task-driven extraction.
@@ -204,6 +206,8 @@ Compensating semantic degradation from channel noise, distribution shift, and cr
 
 
 ## 🤝 Integrated Coordination of Communication and Sensing
+
+<p align="center"><img src="figs/planning_framework.png" width="85%"></p>
 
 ### Integrated Sensing and Communication (ISAC)
 
